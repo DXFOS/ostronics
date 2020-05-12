@@ -1,8 +1,10 @@
-package com.darkxfield.ostronics;
+package com.darkxfield.ostronics.ui.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.darkxfield.ostronics.R;
 
 public class MainActivity extends AppCompatActivity {
 
